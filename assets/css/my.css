@@ -1,0 +1,17 @@
+body {
+	background-color: #d3d3d3;
+}
+
+.judul {
+	background-color: #fff;
+	font-size: 28px;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.artikel {
+	background-color: #fff;
+	font-size: 12px;
+	padding: 20px;
+	margin-bottom: 10px;
+}
